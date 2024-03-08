@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ca498a762ea66769",
+    "type": "split",
+    "children": [
+      {
+        "id": "122d241b00a186d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8699024eee74a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f63d08631089999f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7302ab8912ee1ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d8be1445f93d61c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Без названия 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55280f4c901cbb73",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ccb12a5c2c2232b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926a15931c6bfd8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05f68e003d7aa356",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c17daf5349c0ee7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "120a1609db27ff13",
+    "type": "split",
+    "children": [
+      {
+        "id": "d88ad7d4f1420690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bffb55aabb7befe6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Задачи/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "794edfdb85f60f52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Задачи/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28db0aceea190ec8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4dc94ac9a5fef1e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Задачи/test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d8699024eee74a97",
+  "lastOpenFiles": [
+    "Без названия 1.canvas",
+    "Задачи/test.md",
+    "2024-03-08.md",
+    "Без названия.canvas",
+    "3-Програмная работа с прикладными объктами.md",
+    "Задачи/Задачи.md",
+    "Задачи/ЗадачиПоПраграмнойРаботе.md",
+    "шпоры.md",
+    "Задачи/щ.md",
+    "images/Бухгалтерия/Активы Пассивы.png",
+    "1-Основы1С.md",
+    "Welcome.md",
+    "2-Объекты конфигурации.md",
+    "Задачи",
+    "images/Структура/Структура.png",
+    "images/Структура",
+    "images/Справочники/ЭтоГруппа и Родитель.png",
+    "images/Справочники/Что такое справочник.png",
+    "images/Справочники/Табличные части.png",
+    "images/Справочники/Табличные части2.png",
+    "images/Справочники/Стандартная обработка Удаление помеченных объектов.png",
+    "images/Справочники/Ссылочный тип данных.png",
+    "images/Справочники/Ссылочный тип данных2.png",
+    "images/Справочники/Сслыка2.png",
+    "images/Справочники",
+    "images/Регистры сведений",
+    "images/Регистры накоплений",
+    "images/Регистры бухгалтерии и регистры расчета",
+    "images/РегистрСведенийРегистрНакоплений",
+    "images/Процедуры и Функции Интерактивнй работы",
+    "images/Программна работа с документами, ПВХ, планами счетов и планами видов расчета",
+    "images/Перечисления"
+  ]
+}

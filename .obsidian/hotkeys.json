@@ -1,0 +1,11 @@
+{
+  "obsidian-git:edit-remotes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}
